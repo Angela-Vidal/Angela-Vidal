@@ -1,1 +1,29 @@
+name: Generate snake game contribution graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Gera uma vez por dia
+  push:
+    branches:
+      - main  # Ou a branch principal do seu repositório
+
+jobs:
+  update-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Generate contribution snake
+        uses: Platane/snk@v2
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit snake
+        run: |
+          git config --global user.email "youremail@example.com"
+          git config --global user.name "Angela Vidal"
+          git add github-contribution-grid-snake.svg
+          git commit -m "Update contribution snake"
+          git push
 
