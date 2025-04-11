@@ -1,10 +1,11 @@
-# 👋 Olá, eu sou a Angela Vidal
+## 👋 Olá, eu sou a Angela Vidal
 
-🎓 Estudante de Engenharia de Software  
-💻 Apaixonada por tecnologia, desenvolvimento e aprendizado constante  
+<small>🎓 Estudante de Engenharia de Software  
+💻 Apaixonada por tecnologia, desenvolvimento e aprendizado constante</small>
+
 ---
 
-## 📊 Minhas Estatísticas no GitHub
+### 📊 Minhas Estatísticas no GitHub
 
 ![Angela's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Angela-Vidal&show_icons=true&theme=radical)
 
