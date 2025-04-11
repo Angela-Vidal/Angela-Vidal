@@ -13,8 +13,8 @@
 
 ---
 
-### 📈 Gráfico de Contribuições no GitHub
+### 🐍 Gráfico de Contribuições
 
-![Angela's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Angela-Vidal&theme=react-dark)
+![snake gif](https://github.com/Angela-Vidal/Angela-Vidal/blob/output/github-contribution-grid-snake.svg)
 
 ---
