@@ -13,3 +13,8 @@
 
 ---
 
+### 🏆 GitHub Troféus
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Angela-Vidal&theme=darkhub&no-frame=true&column=4)
+
+---
