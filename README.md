@@ -13,8 +13,3 @@
 
 ---
 
-### 🐍 Gráfico de Contribuições
-
-![snake gif](https://github.com/Angela-Vidal/Angela-Vidal/blob/output/github-contribution-grid-snake.svg)
-
----
