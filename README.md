@@ -13,8 +13,8 @@
 
 ---
 
-### 🏆 GitHub Troféus
+### 📈 Gráfico de Contribuições no GitHub
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Angela-Vidal&theme=darkhub&no-frame=true&column=4)
+![Angela's GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=Angela-Vidal&theme=react-dark)
 
 ---
