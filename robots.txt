@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://angela-vidal-portfolio.blushhero64.chatgpt.site/sitemap.xml
+Sitemap: https://angela-vidal.github.io/Angela-Vidal/sitemap.xml
